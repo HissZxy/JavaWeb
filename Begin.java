@@ -1,0 +1,8 @@
+package µØ«Ú”Œœ∑;
+public class Begain {
+    public static void main(String[] args) throws Exception {
+        Langding l = new Langding();
+        l.init()package µØ«Ú”Œœ∑;
+
+    }
+ }
